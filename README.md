@@ -24,7 +24,7 @@ The project is divided in the following sections:
 - Data:
   - articles_community.csv: detailed information about each article in the platform.
   - user-item-interactions.csv: information about the interaction between users and articles in the platform.
-- Recommendations_with_IBM.ipynb: notebook showcasing the different sections of the project.
+- Recommendations_with_IBM.ipynb: notebook showcasing the different sections and rationale of the project.
 
 ## Requirements <a name="requirementes"></a>
 
