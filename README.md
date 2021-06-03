@@ -21,8 +21,8 @@ The project is divided in the following sections:
 
 ## File Descriptions <a name="files"></a>
 - Data:
- - articles_community.csv: detailed information about each article in the platform.
- - user-item-interactions.csv: information about the interaction between users and articles in the platform.
+  - articles_community.csv: detailed information about each article in the platform.
+  - user-item-interactions.csv: information about the interaction between users and articles in the platform.
 - Recommendations_with_IBM.ipynb: notebook showcasing the different sections of the project.
 
 
