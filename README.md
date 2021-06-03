@@ -5,7 +5,8 @@ Using matrix factorization, collaborative filtering and knowledge-based techniqu
 
 1. [Project Motivation](#motivation)
 2. [File Descriptions](#files)
-3. [Acknowledgements](#acknowledgements)
+3. [Requirements](#requirementes)
+4. [Acknowledgements](#acknowledgements)
 
 ## Project Motivation <a name="motivation"></a>
 
@@ -24,6 +25,8 @@ The project is divided in the following sections:
   - articles_community.csv: detailed information about each article in the platform.
   - user-item-interactions.csv: information about the interaction between users and articles in the platform.
 - Recommendations_with_IBM.ipynb: notebook showcasing the different sections of the project.
+
+## Requirements <a name="requirementes"></a>
 
 
 ## Acknowledgements <a name="acknowledgements"></a>
